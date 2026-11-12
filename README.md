@@ -59,7 +59,7 @@ An experimental space for creative ideas, learning, and development.
 ## Tools I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" alt="HTML, CSS, JavaScript, Python, Git, and GitHub">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,bootstrap,python,nodejs,express,mongodb,mysql,firebase,git,github,vscode,npm,vercel" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Bootstrap, Python, Node.js, Express, MongoDB, MySQL, Firebase, Git, GitHub, VS Code, npm, and Vercel">
 </p>
 
 ## GitHub activity
