@@ -27,7 +27,7 @@ I build practical projects, explore modern tools, and turn ideas into simple exp
 
 > Ship more projects, improve existing work, and learn something new every week.
 
-`████████████████░░░░` **2026 learning goal · 80%**
+<progress value="80" max="100"></progress> 80% **2026 learning goal · 70%**
 
 ## Featured projects
 
