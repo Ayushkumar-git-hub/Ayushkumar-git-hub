@@ -70,6 +70,14 @@ An experimental space for creative ideas, learning, and development.
 </div>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkumar-git-hub&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=ffffff&bg_color=0d1117" height="180" alt="Total GitHub contributions and stats">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ayushkumar-git-hub&theme=github-dark&hide_border=true&background=0d1117&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2ea043&sideLabels=ffffff" alt="GitHub contribution streak">
+</div>
+
+<div align="center">
 
 ### Thanks for visiting ⭐
 
