@@ -70,7 +70,7 @@ An experimental space for creative ideas, learning, and development.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkumar-git-hub&show_icons=true&theme=github_dark&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=ffffff&bg_color=0d1117" height="180" alt="Total GitHub contributions and stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkumar-git-hub&show_icons=true&theme=github_dark&hide_border=true" height="180" alt="Total GitHub contributions and stats">
 </div>
 
 <div align="center">
