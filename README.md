@@ -65,8 +65,8 @@ An experimental space for creative ideas, learning, and development.
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushkumar-git-hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=2ea043&icon_color=2ea043" height="165" alt="Ayush's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumar-git-hub&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043" height="165" alt="Top languages">
+  <img src="https://github-stats-extended.vercel.app/api?username=Ayushkumar-git-hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=2ea043&icon_color=2ea043" height="165" alt="Ayush's GitHub stats">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ayushkumar-git-hub&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043" height="165" alt="Top languages">
 </div>
 
 <div align="center">
