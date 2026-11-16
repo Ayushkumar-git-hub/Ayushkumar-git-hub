@@ -64,10 +64,10 @@ An experimental space for creative ideas, learning, and development.
 
 ## GitHub activity
 
-**Total public commits:** 112
+**Public commits attributed to me:** 71
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Ayushkumar-git-hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=2ea043&icon_color=2ea043" height="165" alt="Ayush's GitHub stats">
+  <img src="https://github-stats-extended.vercel.app/api?username=Ayushkumar-git-hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=2ea043&icon_color=2ea043&include_all_commits=true" height="165" alt="Ayush's GitHub stats">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ayushkumar-git-hub&layout=compact&theme=github_dark&hide_border=true&title_color=2ea043" height="165" alt="Top languages">
 </div>
 
